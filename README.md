@@ -1,5 +1,5 @@
 # R1_SimpleOllama_RAG
-Chroma, Ollama, and Gradio
+Simple example taken from official ollama documentation.
 
 #create venv
 py -m venv venv
