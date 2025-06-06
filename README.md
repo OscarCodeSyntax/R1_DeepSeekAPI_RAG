@@ -1,4 +1,4 @@
-# R1_DeepSeekAPI_RAG
+# R1_SimpleOllama_RAG
 Chroma, Ollama, and Gradio
 
 #create venv
